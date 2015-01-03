@@ -1,0 +1,9 @@
+{
+  "name": "task-revolver",
+  "description": "animation task manager.",
+  "version": "0.1.0",
+  "main": "src/js/TaskRevolver.js",
+  "dependencies": {
+    "jquery": "~1.10.*"
+  }
+}

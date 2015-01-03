@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "main": "src/js/TaskRevolver.js",
   "dependencies": {
-    "jquery": "~1.10.*"
+    "jquery": "~1.10.*",
+    "Ticker": "~0.6.0",
+    "event-trigger": "~0.1.1"
   }
 }
